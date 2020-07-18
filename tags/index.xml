@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mora y Romero Auditores</title>
+    <link>https://www.morayromeroauditores.cl/tags/</link>
+    <description>Recent content in Tags on Mora y Romero Auditores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Mora y Romero Auditores © 2020</copyright>
+    
+	<atom:link href="https://www.morayromeroauditores.cl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
