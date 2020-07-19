@@ -89,9 +89,33 @@
 
         <nav>
   <div class="container">
+    <style type="text/css">
+      @media (min-width: 600px) {
+        .menu-item {
+          display: inline-block;
+        }
+      }
+
+      @media only screen and (max-width: 599px) {
+        .menu-item {
+          display: block;
+        }
+      }
+
+      .main-navigation > .menu-item > a:hoover {
+        border-bottom: 2px solid #000000;
+      }
+
+      .main-navigation > .menu-item > a.active {
+        border-bottom: 2px solid #000000;
+      }
+    </style>
     <div class="main-navigation">
       
-      <a href="/mision/" >Misión, Visión y Valores</a><a href="/servicios/" >Servicios</a><a href="/socios/" >Socios</a>
+      <div class="menu-item"><a
+        href="/mision/" >Misión, Visión y Valores</a></div>&#8203;<div class="menu-item"><a
+        href="/servicios/" >Servicios</a></div>&#8203;<div class="menu-item"><a
+        href="/socios/" >Socios</a></div>&#8203;
     </div>
   </div>
 </nav>
