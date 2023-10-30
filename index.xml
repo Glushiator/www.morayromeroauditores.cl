@@ -6,11 +6,7 @@
     <description>Recent content on Mora y Romero Auditores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Mora y Romero Auditores © 2020</copyright>
-    
-	<atom:link href="https://www.morayromeroauditores.cl/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Mora y Romero Auditores © 2020</copyright><atom:link href="https://www.morayromeroauditores.cl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misión, Visión y Valores</title>
       <link>https://www.morayromeroauditores.cl/mision/</link>
@@ -32,12 +28,15 @@ _ Auditorías De Estados Financieros Contamos con una amplia experiencia y recon
     </item>
     
     <item>
-      <title>Socios</title>
-      <link>https://www.morayromeroauditores.cl/socios/</link>
+      <title>Equipo</title>
+      <link>https://www.morayromeroauditores.cl/equipo/</link>
       <pubDate>Thu, 16 Jul 2020 21:23:01 +0000</pubDate>
       
-      <guid>https://www.morayromeroauditores.cl/socios/</guid>
-      <description>_ Juan Mora Romero Socio Área de Auditoría - Gestión - Laboral Es Contador Auditor, Ingeniero en Información y Control de Gestión y Magister en Control de Gestión (Universidad de Chile). Con Diplomas en diversas materias de gestión como: Gestión de Retail Operativos (U. de Chile, Fac. Matemáticas), Control de Gestión Gerencial (U. de Chile FEN), Gestión Estratégica de Negocios (U.A.Ibáñez), Gestión de Operaciones (U.A.Ibáñez), Administración de Organizaciones de Salud, Públicas y Privadas (U.</description>
+      <guid>https://www.morayromeroauditores.cl/equipo/</guid>
+      <description>_ Juan Mora Romero jmora@morayromeroauditores.cl
++56-961-705-957
+WhatsApp
+Área de Auditoría - Gestión - Laboral Es Contador Auditor, Ingeniero en Información y Control de Gestión y Magister en Control de Gestión (Universidad de Chile). Con Diplomas en diversas materias de gestión como: Gestión de Retail Operativos (U. de Chile, Fac. Matemáticas), Control de Gestión Gerencial (U. de Chile FEN), Gestión Estratégica de Negocios (U.A.Ibáñez), Gestión de Operaciones (U.A.Ibáñez), Administración de Organizaciones de Salud, Públicas y Privadas (U.</description>
     </item>
     
   </channel>

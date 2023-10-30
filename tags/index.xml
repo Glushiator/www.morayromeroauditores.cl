@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Mora y Romero Auditores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Mora y Romero Auditores © 2020</copyright>
-    
-	<atom:link href="https://www.morayromeroauditores.cl/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Mora y Romero Auditores © 2020</copyright><atom:link href="https://www.morayromeroauditores.cl/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

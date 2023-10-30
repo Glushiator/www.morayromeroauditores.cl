@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.morayromeroauditores.cl/mision/</loc>
     <lastmod>2020-07-16T21:29:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.morayromeroauditores.cl/servicios/</loc>
     <lastmod>2020-07-16T21:28:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.morayromeroauditores.cl/socios/</loc>
+  </url><url>
+    <loc>https://www.morayromeroauditores.cl/equipo/</loc>
     <lastmod>2020-07-16T21:23:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.morayromeroauditores.cl/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.morayromeroauditores.cl/tags/</loc>
   </url>
-  
 </urlset>
